@@ -1,4 +1,4 @@
-# AngularStandards
+# Angular Standards
 ## Purpose
 The purpose of this repository is to provide a set of standards and best practices for developing angular applications that should be followed to write quality and safe code. 
 
